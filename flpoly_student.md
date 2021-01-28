@@ -1,23 +1,21 @@
-## First Name Last Name
+## Dylan Bowerman
 
-### Term Year 
+### Spring 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to Data Science
 
-- Course 2
+- Technical Writing
 
-- Course 3
-
-- Course 4
+- Microeconomics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Community Adminstration
 
-- Thing 2
+- Volunteer Work
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Robotics as shown in this website <https://www.floridapoly.edu>
