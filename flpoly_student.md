@@ -19,3 +19,11 @@ I am _passionate about_:
 - Volunteer Work
 
 - Robotics as shown in this website <https://www.floridapoly.edu>
+
+**Courses**
+
+Prefix | Number | Name | Credits
+-------|-------|-------|-------
+**COP**|**2073**|_Intro to Data Science_|3
+**ECO**|**2023**|_Principles of Microeconomics_|3
+**ENC**|**2210**|_Technical Writing_|3
